@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIconFile</key>          <string>ScriptVoice</string>
+  <key>CFBundleName</key>              <string>Script Voice</string>
+  <key>CFBundleDisplayName</key>       <string>Script Voice</string>
+  <key>CFBundleDevelopmentRegion</key> <string>fr</string>
+  <key>CFBundleLocalizations</key>     <array><string>fr</string></array>
+  <key>CFBundleIdentifier</key>        <string>fr.lfd.scriptvoice</string>
+  <key>CFBundleExecutable</key>        <string>ScriptVoice</string>
+  <key>CFBundlePackageType</key>       <string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>0.1</string>
+  <key>CFBundleVersion</key>           <string>1</string>
+  <key>LSMinimumSystemVersion</key>    <string>14.0</string>
+  <key>NSHighResolutionCapable</key>   <true/>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>Script Voice enregistre votre voix off depuis le micro que vous choisissez.</string>
+  <key>NSPrincipalClass</key>          <string>NSApplication</string>
+</dict>
+</plist>
